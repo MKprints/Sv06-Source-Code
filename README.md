@@ -18,7 +18,7 @@ The damage caused by modifying firmware also using the third party firmware will
 
 I can’t provide tech help for users to modify source code, but if you need me to add more functions, create a pull request.
 
-<strong>MK<strong>
+<b>MK<b>
 
 
 
