@@ -13,12 +13,12 @@ PEI Plate, 25 point Auto Leveling, 32bit Silent Mainboard, Dual Z axis, and Belt
 
 # Notice
 
-This is an <b>experimental<b> source code for Sovol SV06 to get it closer to its full potential. For detailed changes check latest commits.
+This is an <b>experimental</b> source code for Sovol SV06 to get it closer to its full potential. For detailed changes check latest commits.
 The damage caused by modifying firmware also using the third party firmware will lose the 1 year warranty. If you need support, it’s recommended to reflash the stock firmware before contacting sovol.
 
 I can’t provide tech help for users to modify source code, but if you need me to add more functions, create a pull request.
 
-<b>MK<b>
+<b>MK</b>
 
 
 
